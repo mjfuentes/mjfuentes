@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>MATIAS FUENTES</h1>
-<p><strong>Software Engineer — 13 Years</strong></p>
+<p><strong>Building at the intersection of AI and creativity</strong></p>
 
 </div>
 
