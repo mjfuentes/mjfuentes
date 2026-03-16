@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>MATIAS FUENTES</h1>
+<h1>Mati Fuentes</h1>
 <p><strong>Building at the intersection of AI and creativity</strong></p>
 
 </div>
