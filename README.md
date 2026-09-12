@@ -16,7 +16,6 @@ Based in Villa La Angostura, Patagonia, Argentina. Moving to Barcelona.
 ## What I work on
 
 - **Distributed systems on the JVM** — Java, Kotlin, Spring Boot, about a decade of it. Event-driven services, microservices, real-time processing at scale.
-- **Search and retrieval** — multi-tenant Elasticsearch across millions of documents and hundreds of enterprise tenants, plus hands-on work with embedding models and vector retrieval.
 - **Cloud and infrastructure** — AWS, Azure, Kubernetes, Terraform, AWS CDK, GitHub Actions.
 - **AI-native engineering** — my whole pipeline runs on coding agents, and I build the tooling for it.
 
