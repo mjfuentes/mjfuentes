@@ -1,33 +1,36 @@
 <div align="center">
 
-<h1>Mati Fuentes</h1>
-<p><strong>Building at the intersection of AI and creativity</strong></p>
+<h1>Matias Fuentes</h1>
+<p><strong>Staff backend & platform engineer</strong></p>
 
 </div>
 
 ---
 
-## About Me
+14 years building and leading backend systems, most of it in Berlin: Engineering Manager at Delivery Hero, Staff Engineer at Gorillas, Head of Backend at Atem, Senior Engineer at Staffbase.
 
-Building intelligent systems that augment human creativity. I work at the intersection of artificial intelligence, software engineering, and creative production — designing tools and workflows that understand context, anticipate needs, and amplify vision.
-
-Based in **Villa La Angostura, Patagonia, Argentina** (previously Berlin).
+Based in Villa La Angostura, Patagonia, Argentina. Moving to Barcelona.
 
 ---
 
-## What I Do
+## What I work on
 
-- **Software Engineering** — Full-stack web applications, AI integration, automation systems, payment platforms
-- **AI & Computer Vision** — Multi-agent orchestration, generative AI tooling, real-time inference systems
-- **Creative Production** — Video production, photography, brand content, cinematography
-- **Kerplunk Studio** — My creative and technology studio serving artists and small businesses with direct collaboration, speed, and results-driven work
+- **Distributed systems on the JVM** — Java, Kotlin, Spring Boot, about a decade of it. Event-driven services, microservices, real-time processing at scale.
+- **Search and retrieval** — multi-tenant Elasticsearch across millions of documents and hundreds of enterprise tenants, plus hands-on work with embedding models and vector retrieval.
+- **Cloud and infrastructure** — AWS, Azure, Kubernetes, Terraform, AWS CDK, GitHub Actions.
+- **AI-native engineering** — my whole pipeline runs on coding agents, and I build the tooling for it.
+
+---
+
+## Projects
+
+- **[cc+](https://github.com/kerplunkstudio/ccplus)** — open source orchestration and observability platform for AI coding agents. Runs parallel Claude Code sessions in isolated git worktrees under a supervisor that assigns work, watches it and retries.
+- **FotoEscurra & FotoBayo** — multi-tenant photography sales platform built solo, running two commercial businesses on one codebase, both in production. Face search on AWS Rekognition, four payment providers across two currencies, electronic invoicing integrated with AFIP.
 
 ---
 
 <div align="center">
 
-**Contact** — [kerplunk.studio](https://kerplunk.studio)
-
-<img src="https://komarev.com/ghpvc/?username=mjfuentes&color=blue" alt="Profile Views" /> ![GitHub Stars](https://img.shields.io/github/stars/mjfuentes?style=social)
+[mjfuentes.github.io](https://mjfuentes.github.io) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/matiasjfuentes) &nbsp;·&nbsp; matiasj.fuentes@gmail.com
 
 </div>
