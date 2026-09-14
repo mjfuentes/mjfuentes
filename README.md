@@ -24,7 +24,6 @@ Based in Villa La Angostura, Patagonia, Argentina. Moving to Barcelona.
 ## Projects
 
 - **[cc+](https://github.com/kerplunkstudio/ccplus)** — open source orchestration and observability platform for AI coding agents. Runs parallel Claude Code sessions in isolated git worktrees under a supervisor that assigns work, watches it and retries.
-- **FotoEscurra & FotoBayo** — multi-tenant photography sales platform built solo, running two commercial businesses on one codebase, both in production. Face search on AWS Rekognition, four payment providers across two currencies, electronic invoicing integrated with AFIP.
 
 ---
 
