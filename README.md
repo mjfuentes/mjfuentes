@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Matias Fuentes</h1>
-<p><strong>Staff backend & platform engineer</strong></p>
+<p><strong>Staff backend engineer</strong></p>
 
 </div>
 
