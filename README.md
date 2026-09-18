@@ -9,7 +9,7 @@
 
 14 years building and leading backend systems, most of it in Berlin: Engineering Manager at Delivery Hero, Staff Engineer at Gorillas, Head of Backend at Atem, Senior Engineer at Staffbase.
 
-Based in Villa La Angostura, Patagonia, Argentina. Moving to Barcelona.
+Based in Villa La Angostura, Patagonia, Argentina.
 
 ---
 
