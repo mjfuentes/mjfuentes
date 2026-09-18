@@ -15,15 +15,16 @@ Based in Villa La Angostura, Patagonia, Argentina.
 
 ## What I work on
 
-- **Distributed systems on the JVM** — Java, Kotlin, Spring Boot, about a decade of it. Event-driven services, microservices, real-time processing at scale.
-- **Cloud and infrastructure** — AWS, Azure, Kubernetes, Terraform, AWS CDK, GitHub Actions.
-- **AI-native engineering** — my whole pipeline runs on coding agents, and I build the tooling for it.
+- **Distributed systems on the JVM**: Java, Kotlin, Spring Boot, about a decade of it. Event-driven services, microservices, real-time processing at scale.
+- **Cloud and infrastructure**: AWS, Azure, Kubernetes, Terraform, AWS CDK, GitHub Actions.
+- **AI-native engineering**: my whole pipeline runs on coding agents, and I build the tooling for it.
 
 ---
 
 ## Projects
 
-- **[cc+](https://github.com/kerplunkstudio/ccplus)** — open source orchestration and observability platform for AI coding agents. Runs parallel Claude Code sessions in isolated git worktrees under a supervisor that assigns work, watches it and retries.
+- **[cc+](https://github.com/kerplunkstudio/ccplus)**: open source orchestration and observability platform for AI coding agents. Runs parallel Claude Code sessions in isolated git worktrees under a supervisor that assigns work, watches it and retries.
+- **[AMIGA](https://github.com/mjfuentes/amiga)**: the Python predecessor of cc+. 16 agents, model routing by cost, worktree isolation, an agent that rewrites its own prompts from its error log. Archived March 2026.
 
 ---
 
