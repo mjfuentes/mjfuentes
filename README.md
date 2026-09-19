@@ -15,9 +15,9 @@ Based in Villa La Angostura, Patagonia, Argentina.
 
 ## What I work on
 
-- **Distributed systems on the JVM**: Java, Kotlin, Spring Boot, about a decade of it. Event-driven services, microservices, real-time processing at scale.
+- **Distributed systems on the JVM**: Java, Kotlin, Spring Boot, more than a decade. Event-driven services, microservices, real-time processing at scale.
 - **Cloud and infrastructure**: AWS, Azure, Kubernetes, Terraform, AWS CDK, GitHub Actions.
-- **AI-native engineering**: my whole pipeline runs on coding agents, and I build the tooling for it.
+- **AI-native engineering**: my current pipeline runs on coding agents, and I build tooling for it.
 
 ---
 
